@@ -1,4 +1,4 @@
-# Custom-Wordpress-Blog-Theme
+# Custom Wordpress Blog Theme
 
 Website: http://customblogtheme.atwebpages.com/
 
